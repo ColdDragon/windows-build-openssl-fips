@@ -2,13 +2,17 @@
 Build the openssl library for Windows(with fips)
 
 - download
+
 1. openssl(https://www.openssl.org/source/)
 2. activeperl(https://www.activestate.com/activeperl/downloads)
 
 - excution
+
  VS20XX x86|x64 Native Tools Command Prompt
 
+
 - Create openssl library for Windows
+
  For x86 : build_x86.bat
 
  For x86 (fips) : build_x86_fips.bat
